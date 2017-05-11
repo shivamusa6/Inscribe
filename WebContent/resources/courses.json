@@ -1,0 +1,3072 @@
+[
+      {
+         "id": "8001",
+         "name": "Advanced diploma in Dredging technology",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8002",
+         "name": "Appreciation Programme on Citizen Journalism",
+         "durationInYears": "0.5"
+      },
+      {
+         "id": "8003",
+         "name": "Bachelor in Hotel Management",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8004",
+         "name": "Bachelor of Architecture",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8005",
+         "name": "Bachelor of Architecture Interior Design",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8006",
+         "name": "Bachelor of Arts & Bachelor of Law",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8007",
+         "name": "Bachelor of Arts (General)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8008",
+         "name": "Bachelor of Arts Acient Indian Culture",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8009",
+         "name": "Bachelor of Arts Arabic (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8010",
+         "name": "Bachelor of Arts Bengali (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8011",
+         "name": "Bachelor of Arts Business Economics (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8012",
+         "name": "Bachelor of Arts Economics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8013",
+         "name": "Bachelor of Arts Economics (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8014",
+         "name": "Bachelor of Arts Education",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8015",
+         "name": "Bachelor of Arts English",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8016",
+         "name": "Bachelor of Arts English (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8017",
+         "name": "Bachelor of Arts Folklore",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8018",
+         "name": "Bachelor of Arts Geography",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8019",
+         "name": "Bachelor of Arts Geography (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8020",
+         "name": "Bachelor of Arts Gujarati",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8021",
+         "name": "Bachelor of Arts Hindi",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8022",
+         "name": "Bachelor of Arts Hindi (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8023",
+         "name": "Bachelor of Arts Hindi Patrakarita Evam Jansanchar (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8024",
+         "name": "Bachelor of Arts History",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8025",
+         "name": "Bachelor of Arts History (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8026",
+         "name": "Bachelor of Arts Home Science (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8027",
+         "name": "Bachelor of Arts International Hospitality Administration",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8028",
+         "name": "Bachelor of Arts Journalism",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8029",
+         "name": "Bachelor of Arts Marathi",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8030",
+         "name": "Bachelor of Arts Mathematics (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8031",
+         "name": "Bachelor of Arts Music (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8032",
+         "name": "Bachelor of Arts Persian (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8033",
+         "name": "Bachelor of Arts Philosophy",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8034",
+         "name": "Bachelor of Arts Philosophy (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8035",
+         "name": "Bachelor of Arts Political Science (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8036",
+         "name": "Bachelor of Arts Politics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8037",
+         "name": "Bachelor of Arts Prayojan Mulak Hindi",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8038",
+         "name": "Bachelor of Arts Psychology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8039",
+         "name": "Bachelor of Arts Psychology (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8040",
+         "name": "Bachelor of Arts Public Service",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8041",
+         "name": "Bachelor of Arts Punjabi (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8042",
+         "name": "Bachelor of Arts Sanskrit",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8043",
+         "name": "Bachelor of Arts Sanskrit (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8044",
+         "name": "Bachelor of Arts Social Work (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8045",
+         "name": "Bachelor of Arts Sociology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8046",
+         "name": "Bachelor of Arts Sociology (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8047",
+         "name": "Bachelor of Arts Tamil",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8048",
+         "name": "Bachelor of Arts Urdu (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8049",
+         "name": "Bachelor of Arts Vocational Studies",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8050",
+         "name": "Bachelor of Arts Vyavaharik and Upyojit Marathi",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8051",
+         "name": "Bachelor of Audiology and Speech Language Pathology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8052",
+         "name": "Bachelor of Ayurvedic Medicine & Surgery",
+         "durationInYears": "4.5"
+      },
+      {
+         "id": "8053",
+         "name": "Bachelor of Business Administration (Foreign Trade)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8054",
+         "name": "Bachelor of Business Administration (Hospitality Managment)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8055",
+         "name": "Bachelor of Business Administration (Hospitality Managment/Tourist & Travel Management)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8056",
+         "name": "Bachelor of Business Administration (Information Systems Management)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8057",
+         "name": "Bachelor of Business Administration (Information Technology Management)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8058",
+         "name": "Bachelor of Business Administration (Shipping)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8059",
+         "name": "Bachelor of Business Administration Hotel & Tourism Management",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8060",
+         "name": "Bachelor of Business Administration Insurance & Banking",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8061",
+         "name": "Bachelor of Business Adminsitration",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8062",
+         "name": "Bachelor of Business Management",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8063",
+         "name": "Bachelor of Business Studies",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8064",
+         "name": "Bachelor of Commerce (General)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8065",
+         "name": "Bachelor of Commerce (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8066",
+         "name": "Bachelor of Commerce (Professional)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8067",
+         "name": "Bachelor of Commerce Accountancy",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8068",
+         "name": "Bachelor of Commerce Accounting and Finance",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8069",
+         "name": "Bachelor of Commerce Banking & Insurance",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8070",
+         "name": "Bachelor of Commerce Banking and Finance",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8071",
+         "name": "Bachelor of Commerce Business Economics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8072",
+         "name": "Bachelor of Commerce Corporate Law",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8073",
+         "name": "Bachelor of Commerce Economics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8074",
+         "name": "Bachelor of Commerce Environmental Science",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8075",
+         "name": "Bachelor of Commerce Financial Markets",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8076",
+         "name": "Bachelor of Commerce Vocational",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8077",
+         "name": "Bachelor of Computer Application",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8078",
+         "name": "Bachelor of Dental Surgery",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8079",
+         "name": "Bachelor of Education",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8080",
+         "name": "Bachelor of Education (English)",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8081",
+         "name": "Bachelor of Education Hearing Impairment",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8082",
+         "name": "Bachelor of Education Vacational",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8083",
+         "name": "Bachelor of Elementary Education",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8084",
+         "name": "Bachelor of Engieering Petroleum Engineering and Offshore Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8085",
+         "name": "Bachelor of Engineering Aeronautical Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8086",
+         "name": "Bachelor of Engineering Automobile Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8087",
+         "name": "Bachelor of Engineering Biomedical Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8088",
+         "name": "Bachelor of Engineering Biotechnology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8089",
+         "name": "Bachelor of Engineering Chemical Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8090",
+         "name": "Bachelor of Engineering Civil Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8091",
+         "name": "Bachelor of Engineering Computer Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8092",
+         "name": "Bachelor of Engineering Electrical & Electronics Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8093",
+         "name": "Bachelor of Engineering Electrical & Electronics Engineering (Marine)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8094",
+         "name": "Bachelor of Engineering Electrical Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8095",
+         "name": "Bachelor of Engineering Electronics & Instrumentation Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8096",
+         "name": "Bachelor of Engineering Electronics and Telecommunication Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8097",
+         "name": "Bachelor of Engineering Electronics Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8098",
+         "name": "Bachelor of Engineering Harbour & Ocean Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8099",
+         "name": "Bachelor of Engineering Humanities and Applied Sciences",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8100",
+         "name": "Bachelor of Engineering Industrial Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8101",
+         "name": "Bachelor of Engineering Information Technology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8102",
+         "name": "Bachelor of Engineering Instrumentation & Control Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8103",
+         "name": "Bachelor of Engineering Instrumentation Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8104",
+         "name": "Bachelor of Engineering Manufacturing Processes & Automation Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8105",
+         "name": "Bachelor of Engineering Marine Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8106",
+         "name": "Bachelor of Engineering Mechanical Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8107",
+         "name": "Bachelor of Engineering Naval Architecture and Offshore Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8108",
+         "name": "Bachelor of Engineering Production Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8109",
+         "name": "Bachelor of Financial & Investment Analysis",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8110",
+         "name": "Bachelor of Fine Art (Applied Art)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8111",
+         "name": "Bachelor of Fine Art (Art History)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8112",
+         "name": "Bachelor of Fine Art (General)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8113",
+         "name": "Bachelor of Fine Art (Painting)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8114",
+         "name": "Bachelor of Fine Art (Print Making)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8115",
+         "name": "Bachelor of Fine Art (Sculpture)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8116",
+         "name": "Bachelor of Fine Art (Visual Communication)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8117",
+         "name": "Bachelor of Home Science",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8118",
+         "name": "Bachelor of Home Science Apparel Production & Management",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8119",
+         "name": "Bachelor of Home Science Journalism & Mass Communication",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8120",
+         "name": "Bachelor of Home Science Organization & Management of Early Childhood Programmes",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8121",
+         "name": "Bachelor of Homoeopathic Medicine & Surgery",
+         "durationInYears": "4.5"
+      },
+      {
+         "id": "8122",
+         "name": "Bachelor of Journalism & Mass Communication (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8123",
+         "name": "Bachelor of Law",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8124",
+         "name": "Bachelor of Law & Master of Law",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8125",
+         "name": "Bachelor of Law (General)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8126",
+         "name": "Bachelor of Law (Special))",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8127",
+         "name": "Bachelor of Legal Science and Bachelor of Law",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8128",
+         "name": "Bachelor of Library Science",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8129",
+         "name": "Bachelor of Management Studies",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8130",
+         "name": "Bachelor of Management Studies (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8131",
+         "name": "Bachelor of Mass Media",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8132",
+         "name": "Bachelor of Medicine & Bachelor of Surgery",
+         "durationInYears": "4.5"
+      },
+      {
+         "id": "8133",
+         "name": "Bachelor of Optometry",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8134",
+         "name": "Bachelor of Performing Arts (Dance)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8135",
+         "name": "Bachelor of Performing Arts (Music)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8136",
+         "name": "Bachelor of Pharmacy",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8137",
+         "name": "Bachelor of Physical Education",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8138",
+         "name": "Bachelor of Physiotherapy",
+         "durationInYears": "4.5"
+      },
+      {
+         "id": "8139",
+         "name": "Bachelor of Science (Agriculture Biotechnology)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8140",
+         "name": "Bachelor of Science (General)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8141",
+         "name": "Bachelor of Science (Medical Technology) Radiology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8142",
+         "name": "Bachelor of Science Agriculture",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8143",
+         "name": "Bachelor of Science Agrilcultural Marketing & Business Management",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8144",
+         "name": "Bachelor of Science Anthropology (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8145",
+         "name": "Bachelor of Science Aviation",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8146",
+         "name": "Bachelor of Science Biochemistry",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8147",
+         "name": "Bachelor of Science Biochemistry (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8148",
+         "name": "Bachelor of Science Biological Sciences (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8149",
+         "name": "Bachelor of Science Biomedical Sciences (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8150",
+         "name": "Bachelor of Science Biotechnology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8151",
+         "name": "Bachelor of Science Botany",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8152",
+         "name": "Bachelor of Science Botany (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8153",
+         "name": "Bachelor of Science Chemistry",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8154",
+         "name": "Bachelor of Science Chemistry (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8155",
+         "name": "Bachelor of Science Commercial Agriculture & Business Management",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8156",
+         "name": "Bachelor of Science Computer Science",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8157",
+         "name": "Bachelor of Science Enviormental Sciences",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8158",
+         "name": "Bachelor of Science Fashion & Apparel Designing",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8159",
+         "name": "Bachelor of Science Fashion Design",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8160",
+         "name": "Bachelor of Science Fashion Technology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8161",
+         "name": "Bachelor of Science Fisheries",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8162",
+         "name": "Bachelor of Science Food Technology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8163",
+         "name": "Bachelor of Science Forensic Science",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8164",
+         "name": "Bachelor of Science Forestry",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8165",
+         "name": "Bachelor of Science Genetics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8166",
+         "name": "Bachelor of Science Geology (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8167",
+         "name": "Bachelor of Science Home Science",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8168",
+         "name": "Bachelor of Science Home Science Interior Design",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8169",
+         "name": "Bachelor of Science Home Science Nutrition & Dietetics",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8170",
+         "name": "Bachelor of Science Horticulture",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8171",
+         "name": "Bachelor of Science Hotel Management and Catering Technology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8172",
+         "name": "Bachelor of Science Hotel Management and Tourism",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8173",
+         "name": "Bachelor of Science Information Technology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8174",
+         "name": "Bachelor of Science Interior Design",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8175",
+         "name": "Bachelor of Science Life Science",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8176",
+         "name": "Bachelor of Science Mathematics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8177",
+         "name": "Bachelor of Science Mathematics (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8178",
+         "name": "Bachelor of Science Medical Laboratory Technology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8179",
+         "name": "Bachelor of Science Medical Technology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8180",
+         "name": "Bachelor of Science Microbiology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8181",
+         "name": "Bachelor of Science Microbiology (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8182",
+         "name": "Bachelor of Science Nautical Science",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8183",
+         "name": "Bachelor of Science Nursing (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8184",
+         "name": "Bachelor of Science Nursing (Post Basic)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8185",
+         "name": "Bachelor of Science Nursing (Post Basic) (Distance Education)",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8186",
+         "name": "Bachelor of Science Occupational Therapy",
+         "durationInYears": "4.5"
+      },
+      {
+         "id": "8187",
+         "name": "Bachelor of Science Physcial Sciences (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8188",
+         "name": "Bachelor of Science Physical Education, Health Education and Sports (Hons)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8189",
+         "name": "Bachelor of Science Physics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8190",
+         "name": "Bachelor of Science Physics (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8191",
+         "name": "Bachelor of Science Plant Biotechnology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8192",
+         "name": "Bachelor of Science Statistics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8193",
+         "name": "Bachelor of Science Statistics (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8194",
+         "name": "Bachelor of Science Visual Communication",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8195",
+         "name": "Bachelor of Science Zoology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8196",
+         "name": "Bachelor of Science Zoology (Honors)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8197",
+         "name": "Bachelor of Social Work",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8198",
+         "name": "Bachelor of Socio Legal Sciences",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8199",
+         "name": "Bachelor of Technology (Food Science)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8200",
+         "name": "Bachelor of Technology Agriculture Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8201",
+         "name": "Bachelor of Technology Chemical Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8202",
+         "name": "Bachelor of Technology Civil Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8203",
+         "name": "Bachelor of Technology Computer Science",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8204",
+         "name": "Bachelor of Technology Computer Science and Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8205",
+         "name": "Bachelor of Technology Computer Science Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8206",
+         "name": "Bachelor of Technology Electrical and Electronics Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8207",
+         "name": "Bachelor of Technology Electronics",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8208",
+         "name": "Bachelor of Technology Electronics & Communication Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8209",
+         "name": "Bachelor of Technology Food Technology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8210",
+         "name": "Bachelor of Technology Industrial Biotechnology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8211",
+         "name": "Bachelor of Technology Information & Communication Technology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8212",
+         "name": "Bachelor of Technology Information Technology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8213",
+         "name": "Bachelor of Technology Instrumentation",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8214",
+         "name": "Bachelor of Technology Manufacturing Technology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8215",
+         "name": "Bachelor of Technology Marine Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8216",
+         "name": "Bachelor of Technology Mechanical Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8217",
+         "name": "Bachelor of Technology Petroleum Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8218",
+         "name": "Bachelor of Technology PlasticsTechnology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8219",
+         "name": "Bachelor of Technology Polymer Science",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8220",
+         "name": "Bachelor of Technology Psychological Science",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8221",
+         "name": "Bachelor of Unani Medicine and Surgery",
+         "durationInYears": "4.5"
+      },
+      {
+         "id": "8222",
+         "name": "Bachelor of Veterinary Science and Animal Husbandry",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8223",
+         "name": "Bachelor of Visual Arts (Applied Art)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8224",
+         "name": "Bachelor of Visual Arts (Painting)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8225",
+         "name": "Bachelor of Visual Arts (Sculpture)",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8226",
+         "name": "Certificate in Welding Technology",
+         "durationInYears": "0.25"
+      },
+      {
+         "id": "8227",
+         "name": "Craft Course in Cookery",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8228",
+         "name": "Craft Course in Food & Beverage Service",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8229",
+         "name": "Craft Course in Hotel Management & Catering Technology",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8230",
+         "name": "Craftmanship Course in Bakery & Confectionary",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8231",
+         "name": "Diploma in Agriculture",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8232",
+         "name": "Diploma in Business Journalism and Corporate Communication",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8233",
+         "name": "Diploma in Civil & Environmental Engineering",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8234",
+         "name": "Diploma in Dance",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8235",
+         "name": "Diploma in Early Childhood Education",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8236",
+         "name": "Diploma in Electrical Engineering",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8237",
+         "name": "Diploma in Electronics Engineering",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8238",
+         "name": "Diploma in Fashion and Textile Designing",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8239",
+         "name": "Diploma in Health-Care and Hospital Management",
+         "durationInYears": "1.5"
+      },
+      {
+         "id": "8240",
+         "name": "Diploma in Interior Design and Decoration",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8241",
+         "name": "Diploma in Labour Laws & Practice",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8242",
+         "name": "Diploma in Mechanical Engineering",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8243",
+         "name": "Diploma in Music",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8244",
+         "name": "Diploma in Pharmacy",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8245",
+         "name": "Diploma in School Management",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8246",
+         "name": "Diploma in Taxation Law",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8247",
+         "name": "Diploma in Taxation Laws & Practice",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8248",
+         "name": "Diploma in Technical Chemistry",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8249",
+         "name": "Diploma in Textile Manufactures",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8250",
+         "name": "Doctor of Medicine\tMateria Medica",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8251",
+         "name": "Doctor of Medicine Anaesthesia",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8252",
+         "name": "Doctor of Medicine Anatomy",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8253",
+         "name": "Doctor of Medicine Ayurveda Kayachikitsa",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8254",
+         "name": "Doctor of Medicine Ayurveda Kriya Sharir",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8255",
+         "name": "Doctor of Medicine Biochemistry",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8256",
+         "name": "Doctor of Medicine Community Medicine",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8257",
+         "name": "Doctor of Medicine Dermatology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8258",
+         "name": "Doctor of Medicine Forensic Medicine",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8259",
+         "name": "Doctor of Medicine General Medicine",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8260",
+         "name": "Doctor of Medicine Homeopathic Philosophy",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8261",
+         "name": "Doctor of Medicine Homeopathy",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8262",
+         "name": "Doctor of Medicine Medicine",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8263",
+         "name": "Doctor of Medicine Microbiology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8264",
+         "name": "Doctor of Medicine Obstetrics & Gynecology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8265",
+         "name": "Doctor of Medicine Orthopaedics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8266",
+         "name": "Doctor of Medicine Otorhinolaryngology and Head & Neck Surgery",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8267",
+         "name": "Doctor of Medicine Paediatrics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8268",
+         "name": "Doctor of Medicine Pathology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8269",
+         "name": "Doctor of Medicine Pharmacology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8270",
+         "name": "Doctor of Medicine Physiology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8271",
+         "name": "Doctor of Medicine Psychiatry",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8272",
+         "name": "Doctor of Medicine Pulmonary Medicine",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8273",
+         "name": "Doctor of Medicine Radio-Diagnosis",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8274",
+         "name": "Doctor of Medicine Radio-Therapy",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8275",
+         "name": "Doctor of Medicine Radiology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8276",
+         "name": "Doctor of Medicine Repertory",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8277",
+         "name": "Doctor of Medicine Tuberculosis & Chest diseases",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8278",
+         "name": "Doctor of Medicine Unani Moalejat",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8279",
+         "name": "Doctor of Philosophy Agricultural Process & Food Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8280",
+         "name": "Doctor of Philosophy Banking & Finance",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8281",
+         "name": "Doctor of Philosophy Biochemistry",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8282",
+         "name": "Doctor of Philosophy Biology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8283",
+         "name": "Doctor of Philosophy Biomedical Sciences",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8284",
+         "name": "Doctor of Philosophy Chemistry",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8285",
+         "name": "Doctor of Philosophy Education",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8286",
+         "name": "Doctor of Philosophy Farm Machinery & Power",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8287",
+         "name": "Doctor of Philosophy Gujarati",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8288",
+         "name": "Doctor of Philosophy Hindi",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8289",
+         "name": "Doctor of Philosophy in Forest Ecology &  Environment",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8290",
+         "name": "Doctor of Philosophy in Forest Management",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8291",
+         "name": "Doctor of Philosophy Inorganic Chemistry",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8292",
+         "name": "Doctor of Philosophy Kannada",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8293",
+         "name": "Doctor of Philosophy Law",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8294",
+         "name": "Doctor of Philosophy Management Studies",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8295",
+         "name": "Doctor of Philosophy Marathi",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8296",
+         "name": "Doctor of Philosophy Marine Biotechnology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8297",
+         "name": "Doctor of Philosophy Maritime Management",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8298",
+         "name": "Doctor of Philosophy Mechanical Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8299",
+         "name": "Doctor of Philosophy Medical Biochemistry",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8300",
+         "name": "Doctor of Philosophy Medical Pharmacology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8301",
+         "name": "Doctor of Philosophy Microbiology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8302",
+         "name": "Doctor of Philosophy Nursing",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8303",
+         "name": "Doctor of Philosophy Organic Chemistry",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8304",
+         "name": "Doctor of Philosophy Petroleum Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8305",
+         "name": "Doctor of Philosophy Pharmaceutical Analysis",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8306",
+         "name": "Doctor of Philosophy Pharmaceutical Chemistry",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8307",
+         "name": "Doctor of Philosophy Pharmaceutics",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8308",
+         "name": "Doctor of Philosophy Pharmacognosy",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8309",
+         "name": "Doctor of Philosophy Pharmacology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8310",
+         "name": "Doctor of Philosophy Pharmacy",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8311",
+         "name": "Doctor of Philosophy Philosophy",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8312",
+         "name": "Doctor of Philosophy Physiology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8313",
+         "name": "Doctor of Philosophy Pulmonary Medicne",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8314",
+         "name": "Doctor of Philosophy Social Work",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8315",
+         "name": "Doctor of Philosophy Soil & Water Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8316",
+         "name": "Doctor of Philosophy Special Education",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8317",
+         "name": "Doctor of Philosophy Zoology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8318",
+         "name": "Doctorate in Agriculture",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8319",
+         "name": "Doctorate in Agriculture Engineering",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8320",
+         "name": "Doctorate in Fisheries",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8321",
+         "name": "Doctorate in Microbiology",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8322",
+         "name": "Doctorate in Veterinary Science and Animal Husbandary",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8323",
+         "name": "Doctrate in Medicine Pulmonary Medicine",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8324",
+         "name": "Entrepreneurial Master of Business Administration",
+         "durationInYears": "1.25"
+      },
+      {
+         "id": "8325",
+         "name": "Fellow Programme in Management",
+         "durationInYears": "4"
+      },
+      {
+         "id": "8326",
+         "name": "Integrated Bachelor of Arts and Bachelor of Law",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8327",
+         "name": "Integrated Master of Business Administration",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8328",
+         "name": "Integrated Master of Philosophy and Doctor of Philosophy English",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8329",
+         "name": "Integrated Master of Philosophy and Doctor of Philosophy Management",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8330",
+         "name": "Integrated Master of Tourism Administration",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8331",
+         "name": "Integrated Masters in Life Science",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8332",
+         "name": "Master of Agricultural Business Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8333",
+         "name": "Master of Architecture (By Research)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8334",
+         "name": "Master of Architecture (General)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8335",
+         "name": "Master of Architecture Architectural and Urban Conservation",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8336",
+         "name": "Master of Architecture Construction Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8337",
+         "name": "Master of Architecture Environmental Architecture",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8338",
+         "name": "Master of Architecture Real Estate Development",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8339",
+         "name": "Master of Architecture Urban and Regional Planning",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8340",
+         "name": "Master of Architecture Urban Design",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8341",
+         "name": "Master of Arts (Diplomacy, Law & Business)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8342",
+         "name": "Master of Arts Ancient History & Archaeology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8343",
+         "name": "Master of Arts Arabic",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8344",
+         "name": "Master of Arts Communication & Media Studies",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8345",
+         "name": "Master of Arts Communication and Journalism",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8346",
+         "name": "Master of Arts Convergent Journalism",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8347",
+         "name": "Master of Arts Disability Communication and Deaf Studies",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8348",
+         "name": "Master of Arts Economics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8349",
+         "name": "Master of Arts Education",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8350",
+         "name": "Master of Arts English",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8351",
+         "name": "Master of Arts English (English Language Training)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8352",
+         "name": "Master of Arts Geography",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8353",
+         "name": "Master of Arts Gujarati",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8354",
+         "name": "Master of Arts Hindi",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8355",
+         "name": "Master of Arts History",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8356",
+         "name": "Master of Arts Mahayana Buddhist Studies",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8357",
+         "name": "Master of Arts Mathematics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8358",
+         "name": "Master of Arts Music",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8359",
+         "name": "Master of Arts Persian",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8360",
+         "name": "Master of Arts Philosophy",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8361",
+         "name": "Master of Arts Political Science",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8362",
+         "name": "Master of Arts Psychology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8363",
+         "name": "Master of Arts Public Administration",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8364",
+         "name": "Master of Arts Public Policy",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8365",
+         "name": "Master of Arts Public Relations",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8366",
+         "name": "Master of Arts Punjabi",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8367",
+         "name": "Master of Arts Rural Development",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8368",
+         "name": "Master of Arts Sanskrit",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8369",
+         "name": "Master of Arts Sociology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8370",
+         "name": "Master of Arts Telugu",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8371",
+         "name": "Master of Arts Tourism Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8372",
+         "name": "Master of Arts Urdu",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8373",
+         "name": "Master of Business Administration",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8374",
+         "name": "Master of Business Administration (Business Economics)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8375",
+         "name": "Master of Business Administration Hospital Administration",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8376",
+         "name": "Master of Business Administration Hospitality Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8377",
+         "name": "Master of Business Administration Human Resource Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8378",
+         "name": "Master of Business Administration Insurance & Banking",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8379",
+         "name": "Master of Business Administration International Business",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8380",
+         "name": "Master of Business Administration Tourism and Travel Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8381",
+         "name": "Master of Business Administration Tourism Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8382",
+         "name": "Master of Business Application Agriculture Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8383",
+         "name": "Master of Business Management (Marine Human Resource Management)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8384",
+         "name": "Master of Business Management (Shipping & Logistics Management)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8385",
+         "name": "Master of Business Management (Shipping Finance)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8386",
+         "name": "Master of Commerce (Accounting & Financial Management)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8387",
+         "name": "Master of Commerce (General)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8388",
+         "name": "Master of Commerce (Human Resource Management)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8389",
+         "name": "Master of Commerce (International Banking & Accounting)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8390",
+         "name": "Master of Commerce Accontancy",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8391",
+         "name": "Master of Commerce Accounting and Auditing",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8392",
+         "name": "Master of Commerce Advance Accounting",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8393",
+         "name": "Master of Commerce Banking and Finance",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8394",
+         "name": "Master of Commerce Business Finance",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8395",
+         "name": "Master of Commerce Industrial Economics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8396",
+         "name": "Master of Commerce Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8397",
+         "name": "Master of Computer Application",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8398",
+         "name": "Master of Education",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8399",
+         "name": "Master of Education Hearing Impairment",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8400",
+         "name": "Master of Engineering Communication Systems",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8401",
+         "name": "Master of Engineering Computer Aided Design / Computer Aided Machining",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8402",
+         "name": "Master of Engineering Computer Engineering",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8403",
+         "name": "Master of Engineering Electrical Engineering",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8404",
+         "name": "Master of Engineering Electronics & Telecommunication",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8405",
+         "name": "Master of Engineering Electronics Engineering",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8406",
+         "name": "Master of Engineering Information Technology (Information Security)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8407",
+         "name": "Master of Engineering Instrumentation & Control",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8408",
+         "name": "Master of Engineering Mechanical Engineering",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8409",
+         "name": "Master of Engineering Mechanical Engineering (CAD / CAM)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8410",
+         "name": "Master of Engineering Mechanical Engineering (Energy Engineering)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8411",
+         "name": "Master of Engineering Power Electronics & Drives",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8412",
+         "name": "Master of Engineering VLSI Design",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8413",
+         "name": "Master of Financial Management",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8414",
+         "name": "Master of Fine Art Applied Art",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8415",
+         "name": "Master of Fine Art Painting",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8416",
+         "name": "Master of Fine Art Print Making",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8417",
+         "name": "Master of Fine Art Sclupture",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8418",
+         "name": "Master of Fine Art Visual Communication",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8419",
+         "name": "Master of Fine Arts Illustration",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8420",
+         "name": "Master of Fine Arts Typography",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8421",
+         "name": "Master of Human Resource Development",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8422",
+         "name": "Master of Human Resource Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8423",
+         "name": "Master of Information Management",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8424",
+         "name": "Master of Labour Welfare",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8425",
+         "name": "Master of Laws",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8426",
+         "name": "Master of Library Science",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8427",
+         "name": "Master of Management Studies",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8428",
+         "name": "Master of Marketing Management",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8429",
+         "name": "Master of Occupational Therapy",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8430",
+         "name": "Master of Optometry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8431",
+         "name": "Master of Performing Arts (Dance)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8432",
+         "name": "Master of Pharmacy",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8433",
+         "name": "Master of Pharmacy  Pharmaceutical  Analysis",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8434",
+         "name": "Master of Pharmacy Clinical Research",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8435",
+         "name": "Master of Pharmacy Herbal Drug Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8436",
+         "name": "Master of Pharmacy Hospital Pharmacy",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8437",
+         "name": "Master of Pharmacy Pharmaceutical Chemistry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8438",
+         "name": "Master of Pharmacy Pharmaceutical Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8439",
+         "name": "Master of Pharmacy Pharmaceutics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8440",
+         "name": "Master of Pharmacy Pharmacognosy",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8441",
+         "name": "Master of Pharmacy Pharmacology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8442",
+         "name": "Master of Pharmacy Quality Assurance",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8443",
+         "name": "Master of Philosophy (Natural Resource Mangement)",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8444",
+         "name": "Master of Philosophy Biomedical Sciences",
+         "durationInYears": "2.5"
+      },
+      {
+         "id": "8445",
+         "name": "Master of Philosophy Marine Biotechnology",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8446",
+         "name": "Master of Philosophy Marine Microbiology",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8447",
+         "name": "Master of Philosophy Nursing",
+         "durationInYears": "2.5"
+      },
+      {
+         "id": "8448",
+         "name": "Master of Physical Education",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8449",
+         "name": "Master of Physiotherapy",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8450",
+         "name": "Master of Science (Horticulture)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8451",
+         "name": "Master of Science (Medical Imaging Technology) Radiology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8452",
+         "name": "Master of Science (Post Harvest Management)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8453",
+         "name": "Master of Science Agriculture",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8454",
+         "name": "Master of Science Analytical Chemistry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8455",
+         "name": "Master of Science Analytical Chemistry (Research)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8456",
+         "name": "Master of Science Anatomy",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8457",
+         "name": "Master of Science and Doctor of Philosophy Biomedical Sciences",
+         "durationInYears": "5"
+      },
+      {
+         "id": "8458",
+         "name": "Master of Science Anthropology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8459",
+         "name": "Master of Science Applied Genetics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8460",
+         "name": "Master of Science Applied Mathematics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8461",
+         "name": "Master of Science Aquaculture",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8462",
+         "name": "Master of Science Biochemistry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8463",
+         "name": "Master of Science Biochemistry",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8464",
+         "name": "Master of Science Bioinformatics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8465",
+         "name": "Master of Science Biomedical Sciences",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8466",
+         "name": "Master of Science Biotechnology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8467",
+         "name": "Master of Science Botany",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8468",
+         "name": "Master of Science Chemistry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8469",
+         "name": "Master of Science Chemistry (Research)",
+         "durationInYears": "2.5"
+      },
+      {
+         "id": "8470",
+         "name": "Master of Science Computer Science",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8471",
+         "name": "Master of Science Defence Science",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8472",
+         "name": "Master of Science Earth Science",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8473",
+         "name": "Master of Science Electronics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8474",
+         "name": "Master of Science Electronics & Communication",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8475",
+         "name": "Master of Science Electronics & Instrumentation Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8476",
+         "name": "Master of Science Environment Science Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8477",
+         "name": "Master of Science Environmental Sciences",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8478",
+         "name": "Master of Science Fabric & Apparel Science",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8479",
+         "name": "Master of Science Fisheries",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8480",
+         "name": "Master of Science Foods & Nutrition",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8481",
+         "name": "Master of Science Forensic Science",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8482",
+         "name": "Master of Science Forestry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8483",
+         "name": "Master of Science Genetics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8484",
+         "name": "Master of Science Geology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8485",
+         "name": "Master of Science Home Science",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8486",
+         "name": "Master of Science Home Science (Family Resource Management)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8487",
+         "name": "Master of Science Home Science (Food Biotechnology)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8488",
+         "name": "Master of Science Home Science (Food Nutrition and Dietetics)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8489",
+         "name": "Master of Science Home Science (Food Processing and Preservation)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8490",
+         "name": "Master of Science Home Science (Human Development)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8491",
+         "name": "Master of Science Home Science (Sports Nutrition)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8492",
+         "name": "Master of Science Home Science (Textile & Clothing)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8493",
+         "name": "Master of Science Home Science (Textile and Fashion Technology)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8494",
+         "name": "Master of Science Hotel & Tourism Studies",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8495",
+         "name": "Master of Science Industrial BioTechnology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8496",
+         "name": "Master of Science Industrial Polymer Chemistry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8497",
+         "name": "Master of Science Informatics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8498",
+         "name": "Master of Science Information Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8499",
+         "name": "Master of Science Inorganic Chemistry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8500",
+         "name": "Master of Science Inorganic Chemistry (Research)",
+         "durationInYears": "2.5"
+      },
+      {
+         "id": "8501",
+         "name": "Master of Science Instrumentation",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8502",
+         "name": "Master of Science Marine Biotechnology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8503",
+         "name": "Master of Science Material Science & Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8504",
+         "name": "Master of Science Mathematics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8505",
+         "name": "Master of Science Medical Laboratory Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8506",
+         "name": "Master of Science Microbiology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8507",
+         "name": "Master of Science Microbiology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8508",
+         "name": "Master of Science Microbiology (Research)",
+         "durationInYears": "2.5"
+      },
+      {
+         "id": "8509",
+         "name": "Master of Science Nano-Biotechnology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8510",
+         "name": "Master of Science Nano-Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8511",
+         "name": "Master of Science NanoScience & NanoTechnology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8512",
+         "name": "Master of Science Nursing",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8513",
+         "name": "Master of Science Oceanography Fisheries and Aquaculture",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8514",
+         "name": "Master of Science Oils, Fats & Waxes",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8515",
+         "name": "Master of Science Operational Research",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8516",
+         "name": "Master of Science Organic Chemistry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8517",
+         "name": "Master of Science Organic Chemistry (Research)",
+         "durationInYears": "2.5"
+      },
+      {
+         "id": "8518",
+         "name": "Master of Science Pharmaceutical Chemistry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8519",
+         "name": "Master of Science Pharmacology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8520",
+         "name": "Master of Science Physical Chemistry",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8521",
+         "name": "Master of Science Physics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8522",
+         "name": "Master of Science Physics (Electronics)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8523",
+         "name": "Master of Science Physics (Material Science)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8524",
+         "name": "Master of Science Physiology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8525",
+         "name": "Master of Science Polymer Science & Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8526",
+         "name": "Master of Science Renewable Energy (Energy Management)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8527",
+         "name": "Master of Science Renewable Energy (Environment Modeling)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8528",
+         "name": "Master of Science Renewable Energy (System Technology)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8529",
+         "name": "Master of Science Statistics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8530",
+         "name": "Master of Science Statistics (Quality & Productivity Management)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8531",
+         "name": "Master of Science Statistics (Quality Reliability & Operations Research)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8532",
+         "name": "Master of Science Surface Coating Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8533",
+         "name": "Master of Science Taxonomy",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8534",
+         "name": "Master of Science Zoology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8535",
+         "name": "Master of Science Zoology (Research)",
+         "durationInYears": "2.5"
+      },
+      {
+         "id": "8536",
+         "name": "Master of Social Work",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8537",
+         "name": "Master of Surgery Anatomy",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8538",
+         "name": "Master of Surgery Ear Nose & Throat",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8539",
+         "name": "Master of Surgery General Surgery",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8540",
+         "name": "Master of Surgery Ophthalmology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8541",
+         "name": "Master of Surgery Orthopaedics",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8542",
+         "name": "Master of Surgery Otorhinolaryngology",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8543",
+         "name": "Master of Surgery Surgery",
+         "durationInYears": "3"
+      },
+      {
+         "id": "8544",
+         "name": "Master of Technology Agricultural Process & Food Engineering",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8545",
+         "name": "Master of Technology Agriculture Engineering",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8546",
+         "name": "Master of Technology Biotechnology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8547",
+         "name": "Master of Technology Computer Engineering (Information Systems)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8548",
+         "name": "Master of Technology Computer Science & Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8549",
+         "name": "Master of Technology Electronics & Communication Engineering",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8550",
+         "name": "Master of Technology Electronics & Communication Engineering ( Signal Processing)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8551",
+         "name": "Master of Technology Energy Management",
+         "durationInYears": "2.5"
+      },
+      {
+         "id": "8552",
+         "name": "Master of Technology in Farm Machinery & Power",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8553",
+         "name": "Master of Technology Information & Communication Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8554",
+         "name": "Master of Technology Instrumentation & Control Engineering (Process Control)",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8555",
+         "name": "Master of Technology Manufacturing & Automation",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8556",
+         "name": "Master of Technology Marine Engineering Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8557",
+         "name": "Master of Technology Petroleum Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8558",
+         "name": "Master of Technology Plastics Technology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8559",
+         "name": "Master of Technology Soil & Water Engineering",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8560",
+         "name": "Master of Tourism Administration",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8561",
+         "name": "Master of Tourism and Travel Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8562",
+         "name": "Master of Urban Planning",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8563",
+         "name": "Master of Veterinary Science",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8564",
+         "name": "Masters in Heritage Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8565",
+         "name": "Masters in Life Sciences",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8566",
+         "name": "Post Diploma in Interior Designing & Decoration",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8567",
+         "name": "Post Graduate Diploma Anaesthesia",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8568",
+         "name": "Post Graduate Diploma in Advertising & Marketing Communication",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8569",
+         "name": "Post Graduate Diploma In Advertising & Media",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8570",
+         "name": "Post Graduate Diploma in Ambedkar Studies",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8571",
+         "name": "Post Graduate Diploma in Business Administration",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8572",
+         "name": "Post Graduate Diploma in Business Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8573",
+         "name": "Post Graduate Diploma in Child Health",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8574",
+         "name": "Post Graduate Diploma in Computer Applications",
+         "durationInYears": "1.5"
+      },
+      {
+         "id": "8575",
+         "name": "Post Graduate Diploma in Corporate Communication & Event Management",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8576",
+         "name": "Post Graduate Diploma in Criminal Law",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8577",
+         "name": "Post Graduate Diploma in Defence Materials",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8578",
+         "name": "Post Graduate Diploma in Dermatology & Venerology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8579",
+         "name": "Post Graduate Diploma in Dietetics and Public Health Nutrition",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8580",
+         "name": "Post Graduate Diploma in Digital and Cyber Forensics and related Laws",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8581",
+         "name": "Post Graduate Diploma in Forensic Science and related Laws",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8582",
+         "name": "Post Graduate Diploma in Forestry Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8583",
+         "name": "Post Graduate Diploma in Geriatric Medicine",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8584",
+         "name": "Post Graduate Diploma in Global Business Operations",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8585",
+         "name": "Post Graduate Diploma in Health and Social Gerontology",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8586",
+         "name": "Post Graduate Diploma in Horticulture and Landscape Gardening",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8587",
+         "name": "Post Graduate Diploma in Intellectual Property Rights",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8588",
+         "name": "Post Graduate Diploma in International Marketing",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8589",
+         "name": "Post Graduate Diploma in Labour Law and Labour Welfare",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8590",
+         "name": "Post Graduate Diploma in Management",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8591",
+         "name": "Post Graduate Diploma in Management of Education",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8592",
+         "name": "Post Graduate Diploma in Maternal and Child Health",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8593",
+         "name": "Post Graduate Diploma in Media & Disability Communication",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8594",
+         "name": "Post Graduate Diploma in Medical Laboratory Technology",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8595",
+         "name": "Post Graduate Diploma in Medical Radio Diagnosis",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8596",
+         "name": "Post Graduate Diploma in Obstetrics and Gynaecology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8597",
+         "name": "Post Graduate Diploma in Ophthalmology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8598",
+         "name": "Post Graduate Diploma in Orthopaedics",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8599",
+         "name": "Post Graduate Diploma in Otorhinolaryngology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8600",
+         "name": "Post Graduate Diploma in Pathology",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8601",
+         "name": "Post Graduate Diploma in Social Media & Web Journalism",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8602",
+         "name": "Post Graduate Diploma in Taxation Laws",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8603",
+         "name": "Post Graduate Diploma in Television & Radio Journalism / Production",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8604",
+         "name": "Post Graduate Diploma in Tuberculosis & Chest Disease",
+         "durationInYears": "2"
+      },
+      {
+         "id": "8605",
+         "name": "Post Graduate Diploma in Yoga for Human Excellence",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8606",
+         "name": "Postgraduate Diploma in Clinical Studies, Data Management & Medical Writing",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8607",
+         "name": "Preparatory course for Doctor of Philosophy Biotechnology",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8608",
+         "name": "Volunteering for a Better World",
+         "durationInYears": "0.25"
+      },
+      {
+         "id": "8609",
+         "name": "XI Arts",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8610",
+         "name": "XI Commerce",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8611",
+         "name": "XI Science",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8612",
+         "name": "XII Arts",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8613",
+         "name": "XII Commerce",
+         "durationInYears": "1"
+      },
+      {
+         "id": "8614",
+         "name": "XII Science",
+         "durationInYears": "1"
+      }
+]
